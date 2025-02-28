@@ -148,4 +148,13 @@ img {
     .lessons .col, .steps .col, .why-us .col-left, .why-us .col-right{
         width: 100%;
     }
+
+    .steps{
+        margin: 3rem 0 0 0;
+    }
+    .why-us{
+        padding: 3rem 0;
+        margin: 0;
+        background-color: #222;
+    }
 }
